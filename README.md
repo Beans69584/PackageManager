@@ -16,3 +16,14 @@ PackageManager is a simple CLI-based package manager written in Go. It allows us
    git clone https://github.com/Beans69584/PackageManager.git
    cd PackageManager
 
+2. **Build the Package**
+
+    ```bash
+    go build -o PackageManager main.go
+    ```
+
+3. **Move Executable to Bin Dir**
+    
+    ```bash
+    sudo mv PackageManager /usr/local/bin/
+    ```
