@@ -698,5 +698,3 @@ PackageManager/
 
 - **Cross-Platform Considerations:**  
   While the current implementation targets Unix-like systems, further enhancements can be made to support other operating systems by handling platform-specific paths and permissions.
-
----

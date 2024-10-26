@@ -1,6 +1,6 @@
 # PackageManager
 
-PackageManager is a simple CLI-based package manager written in Go. It allows users to install, uninstall, and manage software packages distributed as `.tar.gz` archives.
+PackageManager is a simple CLI-based package manager written in Go. It allows users to install, uninstall, and manage software packages distributed as `.tar.gz` archives. It was only really created for personal use, it probably has a lot of flaws and isn't practical for most people.
 
 ## Features
 
@@ -23,7 +23,7 @@ PackageManager is a simple CLI-based package manager written in Go. It allows us
     ```
 
 3. **Move Executable to Bin Dir**
-    
+
     ```bash
     sudo mv PackageManager /usr/local/bin/
     ```
